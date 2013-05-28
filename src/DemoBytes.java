@@ -14,6 +14,7 @@ public class DemoBytes {
          System.out.print((char)b+" ");
       System.out.println();
       System.out.println((3>9));
+      System.out.println("everything is being printed");
       
       
 	}
